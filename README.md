@@ -4,8 +4,8 @@ Hi everyone, my name is Aleksandra Szafranska, but just call me Ola. I am a stud
 # Tool
 - Jira i Trello
 - Testlink
-- Postman - podstawy
-- Bandcam: do nagrywania ekranu
+- Postman - basics
+- Bandcam: screen recording software
 
 # Technical skills:
 - Java dla testerów: with blog "testElka " 
