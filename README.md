@@ -1,7 +1,7 @@
 # About me
 Hi everyone, my name is Aleksandra Szafranska, but just call me Ola. I am a student at the Technical University of Lodz and I am finishing my first degree. Currently, however, I am studying to be a software tester. I am not discouraged by the amount of topics to learn, because I love to acquire new knowledge. I am in the process of uTest Academy, and in my free time I test various websites. I would like to develop myself in web application testing and I am open to gain knowledge about test automation. Any comments are welcome, after all, believing that there is no mistake is a mistake ;)
 
-# Tool
+# Tools
 - Jira i Trello
 - Testlink
 - Postman - basics
