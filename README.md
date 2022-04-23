@@ -1,34 +1,38 @@
-# O mnie
-Cześć wszystkim, nazywam się Aleksandra Szafrańska, ale mówcie mi po prostu Ola. Jestem studentką Politechniki Łódzkiej na kierunku Analityka Chemiczna i obecnie jestem na etapie obrony tytuły inżyniera. Od 2021r. w krąg moich zainteresowań wkroczyła branża IT i w ten sposób trafiłam na zawód, jakim jest tester oprogramowania. Okazało się, że ciągła chęć analizowania rzeczy idealnie pasuje do tego zawodu. Nie zniechęca mnie ilość zagadnień do przyswojenia, bo uwielbiam zdobywać nową wiedzę. Obecnie kończę Akademie uTest oraz w  wolnej chwili testuje różne strony internetowe. Tworząc to repozytorium, chciałbym zaprezentować moje nabyte umiejętności. Wszelkie uwagi są mile widziane, w końcu wiara w to, że nie ma błędu, jest błędem. ;)
+# About me
+Hi everyone, my name is Aleksandra Szafranska, but just call me Ola. I am a student at the Technical University of Lodz and I am finishing my first degree. Currently, however, I am studying to be a software tester. I am not discouraged by the amount of topics to learn, because I love to acquire new knowledge. I am in the process of uTest Academy, and in my free time I test various websites. I would like to develop myself in web application testing and I am open to gain knowledge about test automation. Any comments are welcome, after all, believing that there is no mistake is a mistake ;)
 
-# Narzędzia
-- Jira
+# Tool
+- Jira i Trello
 - Testlink
 - Postman - podstawy
-- Devtools
 - Bandcam: do nagrywania ekranu
 
-# Stos technologiczny:
-- Java dla testerów: z blogu "testElka " 
-- SQL: dzięki stronie W3School 
-- HTML i CSS - podstawy
-- podstawy Git
+# Technical skills:
+- Java dla testerów: with blog "testElka " 
+- SQL: thanks to the website W3School 
+- HTML i CSS - basics
+- Devtools
+- Creating test cases
+- Error reporting
 
-# Ukończone kursy i certyfikaty :
+# Completed Courses and Certificates:
 - Zostań QA lub testerem oprogramowania od zera
 - Praktyczny kurs testowania oprogramowania
 - Postman od podstaw - testowanie Rest API
 
-# Książki:
-Zawód tester- Radosław Smilgin
+# Book:
+Zawód tester - Radosław Smilgin
 
-# Blogi: 
+# Webinar:
+- Wprowadzenie do automatyzacji testów.Dla zielonych jak szczypiorek na wiosnę, prowadzony przez Elę Sądel
+
+# Blogs: 
 -  https://testelka.pl/
 -  https://www.wyszkolewas.com.pl/
 -  https://pwicherski.gitbook.io/testowanie-oprogramowania/
 -  https://www.samouczekprogramisty.pl/
 
-# Śledzone konta na platformie youTube: 
+# My recommended yt channels about testing: 
 - Testowanie oprogramownia 
 - Testuj.pl
 - TestITka 
