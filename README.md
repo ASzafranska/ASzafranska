@@ -20,15 +20,15 @@ Junior:
 - Knowledge od Agile methology
 
 # Completed Courses and Certificates:
-- Zostań QA lub testerem oprogramowania od zera
-- Praktyczny kurs testowania oprogramowania
-- Postman od podstaw - testowanie Rest API
+- Become a QAor software testerfromscratch (Udemy)
+- Practical Software Testing Course (Udemy)
+- Postman fromscratch -testing RestAPI (Udemy)
 
 # Book:
 Zawód tester - Radosław Smilgin
 
 # Webinar:
-- Wprowadzenie do automatyzacji testów.Dla zielonych jak szczypiorek na wiosnę, prowadzony przez Elę Sądel
+- An introduction to test automation.For those green as a chive in spring, led by Ela Sądel
 
 # Blogs: 
 -  https://testelka.pl/
