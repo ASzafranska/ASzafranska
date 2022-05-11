@@ -1,6 +1,5 @@
 # About me
-Hi everyone, my name is Aleksandra Szafranska, but just call me Ola. I am a student and I study chemical
-analytics at the Technical University of Lodz. Currently, I am studying to be a software tester. I am not discouraged by the amount of topics to learn, because I love to acquire new knowledge. I am in the process of uTest Academy, and in my free time I test various websites. I would like to develop myself in web application testing and I am open to gain knowledge about test automation. Any comments are welcome, after all, believing that there is no mistake is a mistake ;)
+Hi everyone, my name is Aleksandra Szafrańska and I am currently finishing my studies at the Technical University of Lodz, majoring in chemical analytics. Despite my young age I decided to change my career path and I have been learning how to become a software tester. I like to take up new challenges and I am not discouraged by the amount of topics to learn, because I love to acquire new knowledge. I am in the process of uTest Academy, and in my free time I test various websites. I would like to develop myself in web application testing and I am open to gain knowledge about test automation. Any comments are welcome, after all, believing that there is no mistake is a mistake ;)
 
 # Skillset
 Junior:
