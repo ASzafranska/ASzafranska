@@ -1,5 +1,5 @@
 # About me
-Hi everyone, my name is Aleksandra Szafrańska and I am currently finishing my studies at the Technical University of Lodz, majoring in chemical analytics. Despite my young age, I decided to change my career path and I have been learning how to become a software tester. I like to take up new challenges and I am not discouraged by the amount of topics to learn, because I love to acquire new knowledge. I am in the process of uTest Academy, and in my free time I test various websites. I would like to develop myself in web application testing and I am open to gain knowledge about test automation.
+Hi everyone, my name is Aleksandra Szafrańska and I am currently graduating my studies at the Technical University of Lodz, majoring in chemical analytics. Despite my young age, I decided to change my career path and I have been learning how to become a software tester. I like to take up new challenges and I love to acquire new knowledge. I am a hard-working, flexible person with communication and analytical skills I am in the process of uTest Academy, and in my free time I test various websites. I would like to develop myself in web application testing and I am open to gain knowledge about test automation.
 
 # Skillset
 Junior:
