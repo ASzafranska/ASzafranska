@@ -41,5 +41,5 @@ Zawód tester - Radosław Smilgin
 # My recommended yt channels about testing: 
 - Testowanie oprogramownia 
 - Testuj.pl
-- TestITka 
+- TestITka  
 - Testelka
