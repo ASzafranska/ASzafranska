@@ -23,7 +23,7 @@ Junior:
 # Completed Courses and Certificates:
 - Become a QAor software testerfromscratch (Udemy)
 - Practical Software Testing Course (Udemy)
-- Postman fromscratch -testing RestAPI (Udemy)
+- Postman fromscratch - testing RestAPI (Udemy)
 
 # Book:
 Zawód tester - Radosław Smilgin
