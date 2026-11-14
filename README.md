@@ -1,53 +1,72 @@
-Hi everyone, my name is Aleksandra Szafrańska and I am ambitious, detail-oriented, with an analytical mind, eager to learn automation software tester. So far, I have been involved in testing web applications and their mobile versions in international projects from Scandinavia and Dubai. 
+# Hi, I'm a QA Engineer 👋
 
-# Skillset
-- Javascript (basic tests)
-- Postman  (REST-API and GraphQL)
-- SQL (basic query)
-- Jira 
-- Devtools
-- Version control (GIT)
-- Gitlab
-- BrowserStack
-- OWASP-ZAP
+### Quality Engineering | API Automation | Cypress | JavaScript
 
-# Technical skills:
-- Development of test cases and tracking of defects in the test management system
-- Test execute
-- Reporting bugs in Jira
-- Functional tests, 
-- Usability testing (training for testers)
-- Regression Testing, 
-- Exploratory Testing, 
-- Integration testing, 
-- Performance Testing (page)
-- Working in Agile methodology
+I’m a QA Engineer with **4.5 years of experience in software quality assurance**, focused on test automation, API testing, and analytical problem-solving.
 
-# Completed Courses and Certificates:
-- Testing mobile application-Android (from testerzy.pl)
-- Become a QA or software tester from scratch (online courses)
-- Practical Software Testing Course (online courses)
-- Postman from scratch - testing RestAPI (online courses)
+My approach to quality engineering goes beyond executing test cases. I’m interested in understanding how systems work, identifying risks, investigating failures, and designing maintainable testing solutions that provide meaningful feedback about software quality.
 
-# In progress:
-- Cypress: Web Automation Testing from Zero to Hero (online courses)
+I enjoy working at the intersection of testing, technology, and system analysis — turning complex requirements and application behavior into reliable, well-structured test strategies.
 
-# Book:
-Zawód tester - Radosław Smilgin
+---
 
-# Webinar:
-- An introduction to test automation.For those green as a chive in spring, led by Ela Sądel
+## 🧭 Professional Focus
 
-# Blogs: 
-- https://www.dlatesterow.pl/
-- https://testguild.com/
-- https://testelka.pl/
-- https://www.wyszkolewas.com.pl/
-- https://pwicherski.gitbook.io/testowanie-oprogramowania/
-- https://www.samouczekprogramisty.pl/
+- **API Test Automation** — designing and implementing automated API tests, validating application behavior, handling negative scenarios, and verifying business logic.
+- **Frontend Automation** — building and maintaining end-to-end tests using Cypress.
+- **Quality Strategy** — analyzing requirements, identifying testing risks, and selecting appropriate testing approaches.
+- **System & Data Analysis** — using SQL and understanding system architecture to investigate application behavior and data consistency.
+- **Technical Problem Solving** — investigating defects, analyzing unexpected behavior, and looking beyond symptoms to understand underlying causes.
 
-# My recommended yt channels about testing: 
-- Testowanie oprogramownia 
-- Testuj.pl
-- TestITka  
-- Testelka
+## 🛠️ Technical Toolkit
+
+| Area | Technologies & Experience |
+|---|---|
+| Programming | JavaScript |
+| UI Automation | Cypress |
+| API Testing | API test automation, REST, request/response validation |
+| API Tools | Postman |
+| Database | SQL |
+| Version Control | Git, GitHub |
+| Quality Engineering | Test strategy, risk analysis, test design |
+| Architecture | System and application architecture – project-level experience |
+
+## 🔬 Engineering Mindset
+
+I believe effective automation is not about maximizing the number of automated tests. It is about building the right tests, at the right level, with a clear purpose.
+
+My engineering principles:
+
+- **Maintainability over test quantity** — automation should be understandable, reusable, and sustainable.
+- **Risk-driven testing** — prioritize scenarios based on business impact and potential system failures.
+- **Meaningful coverage** — focus on behavior, integrations, business rules, and critical user journeys.
+- **Fast and reliable feedback** — automated tests should help identify problems early and make failures easier to investigate.
+- **Continuous improvement** — treat test architecture and automation code as software that requires thoughtful design and maintenance.
+
+## 📈 Currently Developing
+
+My professional development is focused on expanding my capabilities towards advanced QA Automation and Quality Engineering.
+
+| Focus | Development direction |
+|---|---|
+| Cypress & JavaScript | Advanced automation patterns and framework design |
+| API Engineering | Contract testing, schema validation, and integration testing |
+| CI/CD | Automated pipelines, test execution, and reporting |
+| Performance Testing | Performance analysis and k6 |
+| AI in QA | Practical AI-assisted quality engineering and test analysis |
+
+## 🚀 Featured Engineering Projects
+
+I’m building a practical QA Engineering portfolio focused on demonstrating engineering skills through real-world testing scenarios.
+
+**Current portfolio roadmap:**
+
+- **API Quality Engineering Framework** — maintainable API automation, business logic validation, negative testing, and contract validation.
+- **End-to-End Quality Engineering** — combining UI and API testing to validate complete business workflows.
+- **Test Architecture & Data Integrity** — test architecture, integration scenarios, and SQL-based data verification.
+- **CI/CD & Performance Engineering** — automated test pipelines, reporting, and performance testing.
+
+Projects are being developed with an emphasis on technical reasoning, documentation, maintainability, and reproducibility.
+---
+
+*Quality is not just about finding defects. It's about building confidence in the system.*
