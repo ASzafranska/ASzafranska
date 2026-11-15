@@ -1,72 +1,58 @@
-# Hi, I'm a QA Engineer 👋
+# About me
 
-### Quality Engineering | API Automation | Cypress | JavaScript
+**Quality Engineer · API quality & security testing · Test automation**
 
-I’m a QA Engineer with **4.5 years of experience in software quality assurance**, focused on test automation, API testing, and analytical problem-solving.
+4.5 years in software quality, from manual testing to automation, API testing
+and performance testing. I am building toward security-aware API testing and
+quality engineering for AI-powered systems, and I document that work in
+this repository with measurements, not claims.
 
-My approach to quality engineering goes beyond executing test cases. I’m interested in understanding how systems work, identifying risks, investigating failures, and designing maintainable testing solutions that provide meaningful feedback about software quality.
+## Experience in practice
 
-I enjoy working at the intersection of testing, technology, and system analysis — turning complex requirements and application behavior into reliable, well-structured test strategies.
+My professional experience includes working on projects for clients in:
 
----
+- **Dubai and the Netherlands**
+- **Scandinavian countries**
+### Industry Experience
 
-## 🧭 Professional Focus
+- **Hospitality** – testing software solutions supporting hotel operations and related business processes.
+    
+- **Healthcare & Medical Staffing** – testing systems supporting the recruitment and coordination of medical professionals.
+    
+- **Manufacturing & Production (MES)** – testing Manufacturing Execution Systems supporting production processes.
 
-- **API Test Automation** — designing and implementing automated API tests, validating application behavior, handling negative scenarios, and verifying business logic.
-- **Frontend Automation** — building and maintaining end-to-end tests using Cypress.
-- **Quality Strategy** — analyzing requirements, identifying testing risks, and selecting appropriate testing approaches.
-- **System & Data Analysis** — using SQL and understanding system architecture to investigate application behavior and data consistency.
-- **Technical Problem Solving** — investigating defects, analyzing unexpected behavior, and looking beyond symptoms to understand underlying causes.
+## Skills: what is proven where
 
-## 🛠️ Technical Toolkit
+| Level | Skills |
+|-------|--------|
+| Used in commercial work | Cypress, JavaScript, REST API testing, Postman, SQL, JMeter, Git, CI/CD fundamentals |
+| Being built in this portfolio | TypeScript, Playwright, OpenAPI-driven testing (Schemathesis), OWASP ZAP, GitHub Actions pipelines |
+| Learning next | Contract testing (Pact), mutation testing, LLM evaluation |
 
-| Area | Technologies & Experience |
-|---|---|
-| Programming | JavaScript |
-| UI Automation | Cypress |
-| API Testing | API test automation, REST, request/response validation |
-| API Tools | Postman |
-| Database | SQL |
-| Version Control | Git, GitHub |
-| Quality Engineering | Test strategy, risk analysis, test design |
-| Architecture | System and application architecture – project-level experience |
+## How I think about quality
 
-## 🔬 Engineering Mindset
+- **Right tests, not more tests.** Maintainability and clear purpose over test count.
+- **Risk first.** I prioritize by business impact and likely failure, and I can name the risk behind every test.
+- **Meaningful coverage.** Behavior, integrations, business rules and critical user journeys.
+- **Fast, readable feedback.** A failing test should tell you where to look. Test code is software and gets designed like it.
 
-I believe effective automation is not about maximizing the number of automated tests. It is about building the right tests, at the right level, with a clear purpose.
+## Projects
 
-My engineering principles:
+| # | Project | What it demonstrates | Status |
+|---|---------|----------------------|--------|
+| 01 | [API Quality & Security Benchmark](./01-api-quality-security-benchmark) | Four testing approaches compared on a vulnerable API: detection rate, false positives, effort | Planned |
+| 02 | [E2E: Cypress to Playwright](./02-e2e-cypress-to-playwright) | A TypeScript Cypress suite and its measured migration to Playwright | Planned |
+| 03 | [Performance with JMeter](./03-performance-jmeter) | Load scenarios, baseline, regression thresholds, CI execution | Planned |
+| 04 | [AI Quality](./04-ai-quality) | Evaluating LLM features and testing AI agents | Planned |
 
-- **Maintainability over test quantity** — automation should be understandable, reusable, and sustainable.
-- **Risk-driven testing** — prioritize scenarios based on business impact and potential system failures.
-- **Meaningful coverage** — focus on behavior, integrations, business rules, and critical user journeys.
-- **Fast and reliable feedback** — automated tests should help identify problems early and make failures easier to investigate.
-- **Continuous improvement** — treat test architecture and automation code as software that requires thoughtful design and maintenance.
+*Planned* = nothing implemented yet. *In development* = working artifacts exist.
+*Done* = documented and reproducible.
 
-## 📈 Currently Developing
+## Ground rules
 
-My professional development is focused on expanding my capabilities towards advanced QA Automation and Quality Engineering.
+Security testing here runs locally against intentionally vulnerable
+applications only. No public or third-party systems are scanned, fuzzed or load tested.
 
-| Focus | Development direction |
-|---|---|
-| Cypress & JavaScript | Advanced automation patterns and framework design |
-| API Engineering | Contract testing, schema validation, and integration testing |
-| CI/CD | Automated pipelines, test execution, and reporting |
-| Performance Testing | Performance analysis and k6 |
-| AI in QA | Practical AI-assisted quality engineering and test analysis |
+## Contact
 
-## 🚀 Featured Engineering Projects
-
-I’m building a practical QA Engineering portfolio focused on demonstrating engineering skills through real-world testing scenarios.
-
-**Current portfolio roadmap:**
-
-- **API Quality Engineering Framework** — maintainable API automation, business logic validation, negative testing, and contract validation.
-- **End-to-End Quality Engineering** — combining UI and API testing to validate complete business workflows.
-- **Test Architecture & Data Integrity** — test architecture, integration scenarios, and SQL-based data verification.
-- **CI/CD & Performance Engineering** — automated test pipelines, reporting, and performance testing.
-
-Projects are being developed with an emphasis on technical reasoning, documentation, maintainability, and reproducibility.
----
-
-*Quality is not just about finding defects. It's about building confidence in the system.*
+Quality is not just about finding defects. It's about building confidence in the system.*****
